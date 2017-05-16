@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat May 28 12:12:31 EST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ActivityStreamerAdv_client.jar
+manifest.mergeall=true
+manifest.mainclass=activitystreamer.Client
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
